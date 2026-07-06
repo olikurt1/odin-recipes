@@ -1,1 +1,2 @@
 # odin-recipes
+Within this repository I will be creating a website with multiple pages that are recipes to my favourite meals. By the end of this project I will be able to write html boilerplate, create lists, links between pages and add images.
